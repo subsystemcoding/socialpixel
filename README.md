@@ -11,5 +11,5 @@ Offical team website
 ## To Update Theme
 
 ```shell
-git fetch hugo-fresh master git subtree pull --prefix themes/hugo-fresh hugo-fresh master --squash
+git fetch vex-hugo master git subtree pull --prefix themes/vex-hugo vex-hugo master --squash
 ```
