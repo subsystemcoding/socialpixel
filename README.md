@@ -6,7 +6,7 @@ Offical team website
 
 1. Clone repo to local machine: ```git clone git@github.com:subsystemcoding/socialpixel.git```
 2. Change directory into repo folder: ```cd socialpixel```
-3. Run hugo's built-in live server: ```hugo server -D```
+3. Run hugo's built-in live server: ```hugo server```
 
 ## To Update Theme
 
