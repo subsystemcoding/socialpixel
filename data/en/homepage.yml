@@ -1,129 +1,107 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  title : "Frame your Social space"
+  content : "Get in on the fun and excitement today by creating your very own SocialPixel account! We help to connect you with the nature."
+  image : "images/showcase/loginpage.PNG"
   button:
    enable : true
-   label : "Browse All Products"
-   link : "products"
+   label : "Discover our world"
+   link : "blog"
 
 ############################# Feature ############################
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/watch-2.png"
+  image : "images/showcase/channelpage.PNG"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-    
-    # feature item loop
-  - title : "Elegant Design"
+  - title : "Games and Competitions"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Have fun and interact through our various channels and games which enables competition and intrigues our users."
     
     # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Earn Points"
+    icon : "tf-ion-ios-bell-outline"
+    content : "Earn points through winning our competitions and posting more."
+    
+    # feature item loop
+  - title : "Subscribe to the channels"
+    icon : "tf-ion-ios-bell-outline"
+    content : "Discover and subscribe to our wide range of channels, to find more content and popular works."
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-    # feature item loop
-  - title : "Elegant Design"
+  - title : "Easy to use"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Our website has been developed to be user friendly. It contains simple yet elegent features to enhance your experience."
 
     # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "View leaderboards"
+    icon : "tf-ion-ios-bell-outline"
+    content : "Keep track of the leading users with the most points on the entire platform."
+    # feature item loop
+  - title : "Get a verified account"
+    icon : "tf-ion-ios-bell-outline"
+    content : "By increasing followers, you will now be a verified account which is more easily accessible and set as an example for the other users."
 
 
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/watch.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  image : "images/favicon.ico"
+  title : "Designed by professionals , the benefit for creative gigs"
+  
 
 
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Why Choose SocialPixel"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/showcase/comment.PNG"
+      title : "Find your true space."
+      content : "On SocialPixel you will be able to find similar minded people with interests such as your own. We build this platform to promote the importance and beauty of nature."
       button:
         enable : false
         label : "Check Features"
         link : "#"
         
-    # about product item loop
-    - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable : false
-        label : "Check Features"
-        link : "#"
-
+  
 
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Checkout Our Platform for free"
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  bg_image : "images/notifications.PNG"
+  title : "Get Website Updates"
+  content : "By installing our app, you will be able to get updates and notifications on whats happening in our world. We make sure you are always caught up."
   placeholder : "Your Email Address Here"
 
 
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "App Review"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Riya Koshy"
+      content : "This platform is developed to bring together nature lovers together to collaborate and share their ideas and works. We wanted to ensure that everyone has a joyful experience while using SocialPixel. "
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Prithyuksha Viswanathan"
+      content : "We faced a lot of obstacles while developing this app, but with the help our team we were able to overcome these obstacles and create an app which ensures to keep our users intrigued. We hope to spread the joy of using this app to all people."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Benjamin Jacob Reji"
+      content : "I am so happy to see that our app is successful and helpful to reach a lot of people who do not feel in touch with their environment anymore. This helps to create a peaceful virtual environment to let it's users see whats going on in the world during their busy schedule. "
