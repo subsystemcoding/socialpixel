@@ -47,25 +47,20 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
-url = "products"
-weight = 2
-
-[[menu.main]]
 name = "Blog"
 url = "blog"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Review"
 pre = "#"
 url = "testimonial"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 4
 
 # footer menu
 [[menu.footer]]
@@ -121,15 +116,5 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
