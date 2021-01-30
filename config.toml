@@ -24,8 +24,6 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
-[[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -34,8 +32,6 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 
 ###################################### Navigation ######################################
@@ -89,14 +85,12 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "SocialPixel: A Social Platform"
+author = "SubsystemCoding"
 # currency
 currency = "$"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# snipcart public api key
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+contact_form_action = "https://formspree.io/f/xeqpdjpk"
 
 # Preloader
 [params.preloader]
@@ -106,9 +100,8 @@ preloader = "" # use .png , .svg or .gif format
 # Subscription
 [params.subscription]
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
+mailchimp_form_action = "https://hw.us7.list-manage.com/subscribe/post?u=4f237552701e617239648e5c7&amp;id=ddc41e2aba"
+mailchimp_form_name = "b_4f237552701e617239648e5c7_ddc41e2aba"
 
 ################################### English language #####################################
 [Languages.en]
@@ -117,4 +110,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed & Developed By [SubsystemCoding](https://github.com/subsystemcoding)"
