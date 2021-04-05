@@ -1,6 +1,6 @@
 ---
-title: "Terms & Conditions"
-description : "SocialPixel Terms and Conditions"
+title: "Privacy Policy"
+description : "SocialPixel Privacy Policy"
 draft: false
 ---
 
