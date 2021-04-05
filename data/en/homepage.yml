@@ -6,8 +6,8 @@ banner:
   image : "images/showcase/loginpage.PNG"
   button:
    enable : true
-   label : "Discover our world"
-   link : "blog"
+   label : "Download app now"
+   link : "https://socialpixel.s3.me-south-1.amazonaws.com/socialpixel-release.apk"
 
 ############################# Feature ############################
 features:

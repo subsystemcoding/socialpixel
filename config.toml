@@ -71,7 +71,7 @@ weight = 2
 
 [[menu.footer]]
 name = "Terms & Conditions"
-url = "terms-conditions"
+url = "https://socialpixel.s3.me-south-1.amazonaws.com/terms.html"
 weight = 3
 
 [[menu.footer]]
